@@ -12,7 +12,7 @@
 
     <properties>
         <jacksonVersion>2.9.9</jacksonVersion>
-        <springVersion>5.1.8.RELEASE</springVersion>
+        <springVersion>5.2.3.RELEASE</springVersion>
     </properties>
 
     <dependencies>
